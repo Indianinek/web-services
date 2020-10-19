@@ -1,0 +1,25 @@
+{
+  "name": "web-services",
+  "version": "1.0.0",
+  "description": "webservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indianinek/web-services.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "23650",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Indianinek/web-services/issues"
+  },
+  "homepage": "https://github.com/Indianinek/web-services#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
